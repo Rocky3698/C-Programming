@@ -20,7 +20,7 @@ int main()
             }
         }
     }
-
+// testing
     if (size % 2 == 0)
         printf("%d %d\n", arr[(size / 2) - 1], arr[(size / 2)]);
     else
